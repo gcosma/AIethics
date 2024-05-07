@@ -13,6 +13,10 @@
   
 - [AI Ethics and Governance in Practice](https://www.turing.ac.uk/sites/default/files/2023-11/ai-ethics-an-intro_0.pdf)
 
+2022
+
+-[The Information Commissioner Office’s response to the House of Commons Science and Technology Committee inquiry into the governance of artificial intelligence (AI)](https://ico.org.uk/media/about-the-ico/consultation-responses/4023237/hoc-science-tech-consultation-response-20221202.pdf)
+
 2020
 - [Artificial Intelligence and Public Standards A Review by the Committee on Standards in Public Life](https://assets.publishing.service.gov.uk/media/5e553b3486650c10ec300a0c/Web_Version_AI_and_Public_Standards.PDF)
 
