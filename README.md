@@ -8,9 +8,9 @@
 - [A pro-innovation approach to AI regulation: government response - Updated 6 February 2024](https://www.gov.uk/government/consultations/ai-regulation-a-pro-innovation-approach-policy-proposals/outcome/a-pro-innovation-approach-to-ai-regulation-government-response)
 - [AI for National Security](https://www.gchq.gov.uk/artificial-intelligence/index.html)
 - [AI Standards hub](https://aistandardshub.org/guidance/the-roadmap-to-an-effective-ai-assurance-ecosystem/)
-- [IT INDUSTRY OUTLOOK 2024](https://connect.comptia.org/content/research/it-industry-trends-analysis)
 
 2023
+- [The state of AI in 2023: Generative AI’s breakout year August 1, 2023 | Survey](https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai-in-2023-generative-ais-breakout-year#/)
 - [Information Commissioner’s Annual Report and Financial Statements 2022/23 July 2023 HC 1440](https://ico.org.uk/media/about-the-ico/documents/4025864/annual-report-2022-23.pdf)
 - [AI Ethics and Governance in Practice](https://www.turing.ac.uk/sites/default/files/2023-11/ai-ethics-an-intro_0.pdf)
 - [AI assurance? Assessing and mitigating risks across the AI lifecycle](https://www.adalovelaceinstitute.org/report/risks-ai-systems/)
@@ -28,3 +28,7 @@
 
 Websites
 - [UNESCO](https://www.unesco.org/en/artificial-intelligence/recommendation-ethics)
+
+
+- [IT INDUSTRY OUTLOOK 2024](https://connect.comptia.org/content/research/it-industry-trends-analysis)
+
