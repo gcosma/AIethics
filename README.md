@@ -5,6 +5,7 @@
 - [ICO's data security incidents dashboard](https://ico.org.uk/action-weve-taken/data-security-incident-trends/)
 - [Policy implications of artificial intelligence (AI - UK PARLIAMENT POST)](https://researchbriefings.files.parliament.uk/documents/POST-PN-0708/POST-PN-0708.pdf)
 - [A pro-innovation approach to AI regulation: government response - Updated 6 February 2024](https://www.gov.uk/government/consultations/ai-regulation-a-pro-innovation-approach-policy-proposals/outcome/a-pro-innovation-approach-to-ai-regulation-government-response)
+- [AI for National Security](https://www.gchq.gov.uk/artificial-intelligence/index.html)
 
 2023
 - [Information Commissioner’s Annual Report and Financial Statements 2022/23 July 2023 HC 1440](https://ico.org.uk/media/about-the-ico/documents/4025864/annual-report-2022-23.pdf)
