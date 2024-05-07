@@ -8,6 +8,7 @@
 - [A pro-innovation approach to AI regulation: government response - Updated 6 February 2024](https://www.gov.uk/government/consultations/ai-regulation-a-pro-innovation-approach-policy-proposals/outcome/a-pro-innovation-approach-to-ai-regulation-government-response)
 - [AI for National Security](https://www.gchq.gov.uk/artificial-intelligence/index.html)
 - [AI Standards hub](https://aistandardshub.org/guidance/the-roadmap-to-an-effective-ai-assurance-ecosystem/)
+- [IT INDUSTRY OUTLOOK 2024](https://connect.comptia.org/content/research/it-industry-trends-analysis)
 
 2023
 - [Information Commissioner’s Annual Report and Financial Statements 2022/23 July 2023 HC 1440](https://ico.org.uk/media/about-the-ico/documents/4025864/annual-report-2022-23.pdf)
