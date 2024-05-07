@@ -18,6 +18,7 @@
 
 - [The Information Commissioner Office’s response to the House of Commons Science and Technology Committee inquiry into the governance of artificial intelligence (AI)](https://ico.org.uk/media/about-the-ico/consultation-responses/4023237/hoc-science-tech-consultation-response-20221202.pdf)
 - [Common Regulatory Capacity for AI](https://www.turing.ac.uk/sites/default/files/2022-07/common_regulatory_capacity_for_ai_the_alan_turing_institute.pdf)
+- [National AI Strategy](https://assets.publishing.service.gov.uk/media/614db4d1e90e077a2cbdf3c4/National_AI_Strategy_-_PDF_version.pdf)
 
 2020
 - [Artificial Intelligence and Public Standards A Review by the Committee on Standards in Public Life](https://assets.publishing.service.gov.uk/media/5e553b3486650c10ec300a0c/Web_Version_AI_and_Public_Standards.PDF)
