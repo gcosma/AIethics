@@ -16,7 +16,6 @@
 - [Policy paper Chair’s Summary of the AI Safety Summit 2023, Bletchley Park Published 2 November 2023](https://www.gov.uk/government/publications/ai-safety-summit-2023-chairs-statement-2-november/chairs-summary-of-the-ai-safety-summit-2023-bletchley-park)
 
 2022
-
 - [The Information Commissioner Office’s response to the House of Commons Science and Technology Committee inquiry into the governance of artificial intelligence (AI)](https://ico.org.uk/media/about-the-ico/consultation-responses/4023237/hoc-science-tech-consultation-response-20221202.pdf)
 - [Common Regulatory Capacity for AI](https://www.turing.ac.uk/sites/default/files/2022-07/common_regulatory_capacity_for_ai_the_alan_turing_institute.pdf)
 - [National AI Strategy](https://assets.publishing.service.gov.uk/media/614db4d1e90e077a2cbdf3c4/National_AI_Strategy_-_PDF_version.pdf)
@@ -27,4 +26,4 @@
 
 
 Websites
-[UNESCO](https://www.unesco.org/en/artificial-intelligence/recommendation-ethics)
+- [UNESCO](https://www.unesco.org/en/artificial-intelligence/recommendation-ethics)
