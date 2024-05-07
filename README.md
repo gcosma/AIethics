@@ -15,6 +15,7 @@
 - [AI Ethics and Governance in Practice](https://www.turing.ac.uk/sites/default/files/2023-11/ai-ethics-an-intro_0.pdf)
 - [AI assurance? Assessing and mitigating risks across the AI lifecycle](https://www.adalovelaceinstitute.org/report/risks-ai-systems/)
 - [Policy paper Chair’s Summary of the AI Safety Summit 2023, Bletchley Park Published 2 November 2023](https://www.gov.uk/government/publications/ai-safety-summit-2023-chairs-statement-2-november/chairs-summary-of-the-ai-safety-summit-2023-bletchley-park)
+- [AI Principles Progress Update 2023](https://ai.google/static/documents/ai-principles-2023-progress-update.pdf)
 
 2022
 - [The Information Commissioner Office’s response to the House of Commons Science and Technology Committee inquiry into the governance of artificial intelligence (AI)](https://ico.org.uk/media/about-the-ico/consultation-responses/4023237/hoc-science-tech-consultation-response-20221202.pdf)
