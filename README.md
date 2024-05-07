@@ -12,6 +12,8 @@
 - [Information Commissioner’s Annual Report and Financial Statements 2022/23 July 2023 HC 1440](https://ico.org.uk/media/about-the-ico/documents/4025864/annual-report-2022-23.pdf)
   
 - [AI Ethics and Governance in Practice](https://www.turing.ac.uk/sites/default/files/2023-11/ai-ethics-an-intro_0.pdf)
+- 
+- [AI assurance? Assessing and mitigating risks across the AI lifecycle](https://www.adalovelaceinstitute.org/report/risks-ai-systems/)
 
 2022
 
@@ -19,4 +21,6 @@
 
 2020
 - [Artificial Intelligence and Public Standards A Review by the Committee on Standards in Public Life](https://assets.publishing.service.gov.uk/media/5e553b3486650c10ec300a0c/Web_Version_AI_and_Public_Standards.PDF)
+
+- [UK AI COUNCIL | AI ROADMAP](https://assets.publishing.service.gov.uk/media/5ff3bc6e8fa8f53b76ccee23/AI_Council_AI_Roadmap.pdf)
 
