@@ -28,7 +28,7 @@
 
 Websites
 - [AI in Government](https://www.nao.org.uk/reports/use-of-artificial-intelligence-in-government/)
-  
+- [Policy paper AI and Public Standards: an update on progress made against our 2020 recommendations An update on progress made by government, regulators and public bodies on our 2020 recommendations.](https://www.gov.uk/government/publications/ai-and-public-standards-an-update-on-progress-made-against-our-2020-recommendations)
 - [UNESCO](https://www.unesco.org/en/artificial-intelligence/recommendation-ethics)
 - [IT INDUSTRY OUTLOOK 2024](https://connect.comptia.org/content/research/it-industry-trends-analysis)
 
