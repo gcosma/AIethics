@@ -9,6 +9,7 @@
 - [AI Standards hub](https://aistandardshub.org/guidance/the-roadmap-to-an-effective-ai-assurance-ecosystem/)
 
 2023
+- [AI brings potentially huge benefits to the public sector but we need clear standards and greater transparency](https://cspl.blog.gov.uk/2023/05/25/ai-brings-potentially-huge-benefits-to-the-public-sector-but-we-need-clear-standards-and-greater-transparency/)
 - [2023-03-05 Final AI follow up report for publication](https://assets.publishing.service.gov.uk/media/65e851e2ea2f3600113c8964/AI_follow_up_report.pdf)
 - [Artificial Intelligence and Public Standards Report Follow Up](https://assets.publishing.service.gov.uk/media/65e84cca4e2a8a00115c37a6/Public_bodies_responses_redacted.pdf)
 - [The state of AI in 2023: Generative AI’s breakout year August 1, 2023 | Survey](https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai-in-2023-generative-ais-breakout-year#/)
