@@ -1,7 +1,6 @@
 
 # AI ethics sources of information
 2024
-
 - [We must act on AI literacy to protect public power](https://www.jrf.org.uk/ai-for-public-good/we-must-act-on-ai-literacy-to-protect-public-power)
 - [ICO's data security incidents dashboard](https://ico.org.uk/action-weve-taken/data-security-incident-trends/)
 - [Policy implications of artificial intelligence (AI - UK PARLIAMENT POST)](https://researchbriefings.files.parliament.uk/documents/POST-PN-0708/POST-PN-0708.pdf)
@@ -28,8 +27,8 @@
 
 
 Websites
+- [AI in Government](https://www.nao.org.uk/reports/use-of-artificial-intelligence-in-government/)
+  
 - [UNESCO](https://www.unesco.org/en/artificial-intelligence/recommendation-ethics)
-
-
 - [IT INDUSTRY OUTLOOK 2024](https://connect.comptia.org/content/research/it-industry-trends-analysis)
 
